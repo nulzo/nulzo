@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/nolan-gregory-cs/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/TNyxVAX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu](https://media.tenor.com/5AyrPjdvtqMAAAAC/please-say-sike-eric-andre.gif" alt="Discord" title="Discord"><img width="32px" src="https://imgur.com/1PqeK8P.png"/></a>
+  <a href="https://media.tenor.com/5AyrPjdvtqMAAAAC/please-say-sike-eric-andre.gif" alt="Discord" title="Discord"><img width="32px" src="https://imgur.com/1PqeK8P.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/nulzo/"><img width="32px" alt="Github" title="Github" src="https://imgur.com/cF6vTtn.png"></a>
 </p>
