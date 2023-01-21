@@ -63,6 +63,10 @@ if __name__ == "__main__":
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=4ECDC4&center=true&vCenter=true&repeat=false&width=435&lines=Sign+My+Guestbook!" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+<a href="https://gist.github.com/nulzo/5b0c7f9fd8f94efb18d3f12676b12b5d"><img src="https://imgur.com/5rGranR.png alt="bruh"/></a>
+</p>
+
 <!--
 **nulzo/nulzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
