@@ -10,13 +10,13 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/3hcdxzP.png"/></a>
+  <a href="https://www.youtube.com/channel/UCKRgEboEIQuq-PKD8J4RvtA"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/3hcdxzP.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/TNyxVAX.png"/></a>
+  <a href="https://www.linkedin.com/in/nolan-gregory-cs/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/TNyxVAX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://imgur.com/1PqeK8P.png"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu](https://media.tenor.com/5AyrPjdvtqMAAAAC/please-say-sike-eric-andre.gif" alt="Discord" title="Discord"><img width="32px" src="https://imgur.com/1PqeK8P.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://imgur.com/cF6vTtn.png"></a>
+  <a href="https://github.com/nulzo/"><img width="32px" alt="Github" title="Github" src="https://imgur.com/cF6vTtn.png"></a>
 </p>
 
 <!-- Break point -->
