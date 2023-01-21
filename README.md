@@ -30,7 +30,17 @@ class aboutMe:
         self.languages = languages
         
     def greeting(self):
-        print("Thanks for checking out my page! Why don't you check out my \"guestbook\" while you're here?")
+        print(f"Hello!\nMy name is {self.name} and I am a {self.role}!")
+        print("I am comfortable developing in: ")
+        self.getLanguages()
+        print("Thanks for checking out my page! Why don't you sign my \"guestbook\" while you're here? :)")
+        
+    def getLanguages(self):
+        if len(self.languages) > 0:
+            for lang in self.languages:
+                print(f"\t>> {lang}")
+        else:
+            print("\t>> No languages?!")
         
 if __name__ == "__main__":
   me = aboutMe("Nolan", "Software Engineer", ["Python", "Java", "C#", "C", "JS"])
