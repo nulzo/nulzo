@@ -33,7 +33,7 @@ class aboutMe:
         print("Thanks for checking out my page! Why don't you check out my \"guestbook\" while you're here?")
         
 if __name__ == "__main__":
-  me = SoftwareEngineer("Nolan", "Software Engineer", ["Python", "Java", "C#", "C", "JS"])
+  me = aboutMe("Nolan", "Software Engineer", ["Python", "Java", "C#", "C", "JS"])
   me.greeting()
 ```
 
