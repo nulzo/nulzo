@@ -64,7 +64,7 @@ if __name__ == "__main__":
 </p>
 
 <p align="center">
-<a href="https://gist.github.com/nulzo/5b0c7f9fd8f94efb18d3f12676b12b5d"><img src="https://imgur.com/5rGranR.png alt="bruh"/></a>
+<a href="https://gist.github.com/nulzo/5b0c7f9fd8f94efb18d3f12676b12b5d"><img src="https://imgur.com/vZLPTMH.png alt="bruh"/></a>
 </p>
 
 <!--
