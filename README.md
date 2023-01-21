@@ -23,6 +23,8 @@
 ##
 ```python
 
+#Get to know the user :-)
+
 class aboutMe:
     def __init__(self, name, role, languages = []):
         self.name = name
@@ -32,10 +34,10 @@ class aboutMe:
     def greeting(self):
         print(f"Hello!\nMy name is {self.name} and I am a {self.role}!")
         print("I am comfortable developing in: ")
-        self.getLanguages()
+        self.__getLanguages()
         print("Thanks for checking out my page! Why don't you sign my \"guestbook\" while you're here? :)")
         
-    def getLanguages(self):
+    def __getLanguages(self):
         if len(self.languages) > 0:
             for lang in self.languages:
                 print(f"\t>> {lang}")
