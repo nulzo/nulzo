@@ -52,11 +52,21 @@ if __name__ == "__main__":
 <!-- break point -->
 ##
 <p align='center'>
+ <a href="www.github.com/nulzo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulzo&layout=compact&bg_color=90,292F36,FF6B6B&text_color=FFFFFF&title_color=FFFFFF" alt="Nolan's github stats" /></a>
+ </p> 
+ 
+ <p align='center'>
+ <a href="www.github.com/nulzo"><img src="https://github-readme-stats.vercel.app/api?username=nulzo&layout=compact&bg_color=90,292F36,FF6B6B&text_color=FFFFFF&title_color=FFFFFF" alt="DaBaby" /></a>
+ </p>
+
+<!-- break point -->
+##
+<p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Total+Page+Visitors" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://hits.sh/github.com/nulzo/hits/"><img alt="Hits" src="https://hits.sh/github.com/nulzo/hits.svg?style=for-the-badge&label=Profile%20Views&color=FF6B6B&labelColor=292F36"/></a>
+<a href="https://hits.sh/github.com/nulzo/hits/"><img alt="Hits" src="https://hits.sh/github.com/nulzo/hits.svg?style=for-the-badge&label=Profile%20Views&color=FF6B6B&labelColor=292F36" /></a>
 </p>
 
 <!-- break point -->
