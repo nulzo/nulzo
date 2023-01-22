@@ -51,12 +51,13 @@ if __name__ == "__main__":
 
 <!-- break point -->
 ##
-<p align='center'>
- <a href="www.github.com/nulzo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulzo&layout=compact&bg_color=90,292F36,FF6B6B&text_color=FFFFFF&title_color=FFFFFF" alt="Nolan's github stats" /></a>
- </p> 
  
- <p align='center'>
- <a href="www.github.com/nulzo"><img src="https://github-readme-stats.vercel.app/api?username=nulzo&layout=compact&bg_color=90,292F36,FF6B6B&text_color=FFFFFF&title_color=FFFFFF" alt="DaBaby" /></a>
+<p align="center">
+<a href="www.github.com/nulzo"><img src="https://streak-stats.demolab.com?user=nulzo&border_radius=3&fire=FF6B6B&background=292F36&stroke=FFFFFF&ring=FFFFFF&currStreakNum=4ECDC4&sideNums=DDDDDD&currStreakLabel=FF6B6B&sideLabels=CDCDCD&dates=4ECDC4" alt="Nulzo Stats" /></a>
+</p>
+
+<p align='center'>
+ <a href="www.github.com/nulzo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nulzo&layout=compact&bg_color=292F36&text_color=FFFFFF&title_color=FFFFFF" alt="Nolan's github stats" /></a>
  </p>
 
 <!-- break point -->
