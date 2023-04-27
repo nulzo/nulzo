@@ -5,7 +5,7 @@
 
 <!-- About me display -->
 <p align="center">
-<a href="https://github.com/nulzo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FFFFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Software+Engineering+Intern;Certified+Cool+Guy" alt="Typing SVG" /></a>
+<a href="https://github.com/nulzo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=c9c2bb&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Software+Engineering+Intern;Certified+Cool+Guy" alt="Typing SVG" /></a>
 </p>
 
 <!-- Socials -->
@@ -14,7 +14,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/nolan-gregory-cs/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/TNyxVAX.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://media.tenor.com/Fk2KVQAe3PcAAAAC/ray-liotta-laughing.gif" alt="Discord" title="Discord"><img width="32px" src="https://imgur.com/1PqeK8P.png"/></a>
+  <a href="https://stackoverflow.com/users/21640035/nulzo" alt="StackOverflow" title="StackOverflow"><img width="32px" src="https://imgur.com/61axide.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/nulzo/"><img width="32px" alt="Github" title="Github" src="https://imgur.com/cF6vTtn.png"></a>
 </p>
@@ -45,7 +45,7 @@ class aboutMe:
             print("\t>> No languages?!")
         
 if __name__ == "__main__":
-  me = aboutMe("Nolan", "Software Engineer", ["Python", "Java", "C#", "C", "JS"])
+  me = aboutMe("Nolan", "Software Engineer", ["C", "C++", "Python", "Java"])
   me.greeting()
 ```
 
