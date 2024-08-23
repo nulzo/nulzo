@@ -4,37 +4,24 @@
 
 <h1 align="left">Hey, I'm @nulzo.</h1>
 
-<!-- Break point -->
-
-```python
-
-#Get to know the user :-)
-
-class aboutMe:
-    def __init__(self, name, role, languages = []):
-        self.name = name
-        self.role = role
-        self.languages = languages
-        
-    def greeting(self):
-        print(f"Hello!\nMy name is {self.name} and I am a {self.role}!")
-        print("I am comfortable developing in: ")
-        self.__getLanguages()
-        print("Thanks for checking out my page! Why don't you sign my \"guestbook\" while you're here? :)")
-        
-    def __getLanguages(self):
-        if len(self.languages) > 0:
-            for lang in self.languages:
-                print(f"\t>> {lang}")
-        else:
-            print("\t>> No languages?!")
-        
-if __name__ == "__main__":
-  me = aboutMe("Nolan", "Software Engineer", ["C", "C++", "Python", "Java"])
-  me.greeting()
+```lua
+⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⡿⣿⣇⠀⠀⠀⠀  nulzo@nulzo.io
+⣿⢏⣹⣳⣯⣗⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡿⠃⠒⣜⣮⢧⡀⠀⠀  -----------
+⣿⡞⠁⡉⠙⠻⣷⣿⢦⣤⣤⣶⣶⣶⣶⣶⣶⣾⣿⡿⠋⠀⠌⡐⠈⢿⣿⣣⠀⠀  Location: United States
+⣿⠀⢂⠐⡁⢂⣬⣿⣿⢫⠉⠀⠀⠀⠀⠀⠀⠜⡹⢿⣿⣿⣶⣶⣤⣈⣿⣷⣗⠀  Pronouns: he/him
+⡇⢀⣦⣼⣾⣿⣿⣿⡭⡃⠌⠀⠀⠀⠀⠀⠀⠀⠑⡹⣚⢿⣿⣿⣿⣿⣿⣿⣼⠀  Shell: estrogen 5.2.26
+⣿⣿⣿⣿⣿⣿⣟⢧⢃⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠉⢎⠳⢯⡟⣿⣻⢿⣯⡷  Languages: JavaScript, TypeScript, Python, C++, Java
+⣿⣿⡿⣟⡿⡓⢎⠂⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣰⣬⣧⡝⢊⠙⣷  Frontend: Vue, React, Next, Vuetify
+⠟⢧⠛⠥⠃⢉⠀⣴⣾⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⠀⠀⢸  Backend: FastAPI
+⠈⠄⡈⠤⣁⠢⡀⢿⣿⣿⣿⠃⠀⠀⠀⠀⢠⡄⠀⣴⠀⠀⡀⢙⢛⡛⠭⢠⠃⢆  DevOps: Docker, Vercel, Cloudflare
+⠐⡠⢑⡒⡄⠓⡌⣌⢩⣩⠷⠶⣤⠀⠀⠀⠀⠳⠾⠃⢀⢸⡼⠋⠋⠛⢦⡃⠞⡠  Databases: MongoDB, MySQL/MariaDB
+⢀⠱⡈⢖⡈⢣⠜⣠⠟⠀⠀⠀⠀⢳⡄⠀⠀⠀⠀⠀⠐⣾⠁⠀⠀⠀⠈⢧⢣⢸  IDEs: Visual Studio, Visual Studio Code, IntelliJ IDEA
+⣆⠠⢑⠢⣉⠆⢼⡟⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠈⣷⢯  Runtime: Bun
+⡏⠀⠀⢁⠂⢌⡟⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠈⣗⠀⠀⠀⠀⠀⠀⠈⢯  Email: mail@nulzo.io
+⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀  Discord: nulzo
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡇⠀⠀⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀⠀⠀⠀  Website: nulzo.io
 ```
 
-<!-- break point -->
 ##
 
 ###
