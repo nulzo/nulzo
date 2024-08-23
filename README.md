@@ -5,21 +5,27 @@
 <h1 align="left">Hey, I'm @nulzo.</h1>
 
 ```lua
-⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⡿⣿⣇⠀⠀⠀⠀  nulzo@nulzo.io
-⣿⢏⣹⣳⣯⣗⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⡿⠃⠒⣜⣮⢧⡀⠀⠀  -----------
-⣿⡞⠁⡉⠙⠻⣷⣿⢦⣤⣤⣶⣶⣶⣶⣶⣶⣾⣿⡿⠋⠀⠌⡐⠈⢿⣿⣣⠀⠀  Location: United States
-⣿⠀⢂⠐⡁⢂⣬⣿⣿⢫⠉⠀⠀⠀⠀⠀⠀⠜⡹⢿⣿⣿⣶⣶⣤⣈⣿⣷⣗⠀  Pronouns: he/him
-⡇⢀⣦⣼⣾⣿⣿⣿⡭⡃⠌⠀⠀⠀⠀⠀⠀⠀⠑⡹⣚⢿⣿⣿⣿⣿⣿⣿⣼⠀  Shell: estrogen 5.2.26
-⣿⣿⣿⣿⣿⣿⣟⢧⢃⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠉⢎⠳⢯⡟⣿⣻⢿⣯⡷  Languages: JavaScript, TypeScript, Python, C++, Java
-⣿⣿⡿⣟⡿⡓⢎⠂⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⣰⣬⣧⡝⢊⠙⣷  Frontend: Vue, React, Next, Vuetify
-⠟⢧⠛⠥⠃⢉⠀⣴⣾⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⠀⠀⢸  Backend: FastAPI
-⠈⠄⡈⠤⣁⠢⡀⢿⣿⣿⣿⠃⠀⠀⠀⠀⢠⡄⠀⣴⠀⠀⡀⢙⢛⡛⠭⢠⠃⢆  DevOps: Docker, Vercel, Cloudflare
-⠐⡠⢑⡒⡄⠓⡌⣌⢩⣩⠷⠶⣤⠀⠀⠀⠀⠳⠾⠃⢀⢸⡼⠋⠋⠛⢦⡃⠞⡠  Databases: MongoDB, MySQL/MariaDB
-⢀⠱⡈⢖⡈⢣⠜⣠⠟⠀⠀⠀⠀⢳⡄⠀⠀⠀⠀⠀⠐⣾⠁⠀⠀⠀⠈⢧⢣⢸  IDEs: Visual Studio, Visual Studio Code, IntelliJ IDEA
-⣆⠠⢑⠢⣉⠆⢼⡟⠀⠀⠀⠀⠀⠈⣷⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠈⣷⢯  Runtime: Bun
-⡏⠀⠀⢁⠂⢌⡟⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠈⣗⠀⠀⠀⠀⠀⠀⠈⢯  Email: mail@nulzo.io
-⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀  Discord: nulzo
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡇⠀⠀⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀⠀⠀⠀  Website: nulzo.io
+⠀⠀⠀⠀⢀⣴⠶⠶⠶⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠈⠛⢷⣄⠀⠀⠀⠀⢀⣀⣀⡤⠴⠴⠦⠴⠶⠶⣤⣄⠀⠀     nulzo@nulzo.io
+⠀⠀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⠶⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢻⡄      -----------
+⠀⠀⢸⣧⠀⠀⢠⡄⠀⠀⠀⠀⠀⠀⢸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇       Location: United States
+⠀⠀⣾⠘⠀⢀⣀⠹⢦⣄⡀⠀⠀⠀⣸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⠞⠋⠀     Pronouns: he/him
+⠀⣀⠿⠦⡞⠉⠉⢹⡄⠉⠛⠛⠛⠛⠋⠀⠛⠛⠶⠶⢶⣶⠶⠖⠛⠛⠋⠁⠀⠀⠀⠀  Shell: estrogen 5.2.26
+⠀⣇⠀⢠⠖⢲⡄⠺⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀   Languages: JavaScript, TypeScript, Python, C++, Java
+⠀⠈⡇⠈⠓⣊⡀⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⠀⠀⠀⠀⠀⠀  Frontend: Vue, React, Next, Vuetify
+⠀⣸⠷⠤⠶⠋⠉⠉⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⢹⡆⠀⠀⠀⠀⠀⠀  Backend: FastAPI
+⢠⡟⠀⠀⠀⠀⠀⠀⣀⣤⠶⠚⠋⠉⠉⠉⠉⠉⠉⣙⡳⣦⡀⠀⠀⣿⠀⠀⠀⠀⠀⠀   DevOps: Docker, Vercel, Cloudflare
+⢸⡇⠇⠀⠀⠀⣠⠞⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣷⠈⢻⡀⣸⠇⠀⠀⠀⠀⠀⠀   Databases: MongoDB, MySQL/MariaDB
+⠘⣧⠀⠀⢀⡾⠡⣿⣿⡀⠀⠀⠀⢠⠤⢄⠀⠀⠀⠉⠋⠀⣸⣷⠟⠀⠀⠀⠀⠀⠀⠀  IDEs: Visual Studio, Visual Studio Code, IntelliJ IDEA
+⠀⠹⣆⠀⢸⡃⠀⠙⠛⠀⠀⠀⢀⣌⣛⡡⠀⠀⠀⢀⣠⣴⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀ Runtime: Bun
+⠀⠀⠙⠷⣮⣷⣄⣀⡤⣤⡤⣞⡦⣄⣤⣤⡤⠶⢾⡟⠉⣠⠇⠀⠀⠀⠀⠀⠀⠀⠀Email: mail@nulzo.io
+⠀⠀⠀⠀⠀⢹⣿⣆⣛⣷⢿⣭⣿⠃⠀⠈⢻⣴⠟⣸⠏⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀Discord: nulzo
+⠀⠀⠀⠀⣀⣘⣷⣦⣽⣘⣻⣸⠩⣽⡆⠀⠀⢸⡟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Website: nulzo.io 
+⠀⠀⢀⡟⠁⠀⣨⠿⣄⣀⣠⣄⣤⠏⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⢧⠀⠀⡟⠀⠈⠉⢹⢱⡱⠄⠀⠀⣠⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠉⠙⢻⡀⠀⠀⠀⠀⠀⠰⡆⠈⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢷⡀⠀⠀⠀⠀⠰⣧⠈⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⠙⠶⢤⣄⣀⣀⣼⣤⡼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
 ##
