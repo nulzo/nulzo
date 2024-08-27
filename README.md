@@ -1,4 +1,8 @@
-<!-- First & Last name display -->
+<div style="width: 100%;">
+  <a href="https://github.com/nulzo/nulzo/blame/main/icon.svg">
+    <img src="icon.svg" style="width: 100%;" alt="">
+  </a>
+</div>
 
 ###
 
@@ -23,7 +27,6 @@
 ##
 
 ###
-
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nulzo&theme=transparent&border_radius=10&fire=EB3ADB&ring=D1A8FF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=D1A8FF&sideLabels=EBEBEB&dates=9A9A9A&width=500" alt="streak" />
@@ -43,12 +46,6 @@
 <div align="center">
   <a href="https://open.spotify.com/user/31kcepdl2xmz4k5ioku7cxikyssq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kcepdl2xmz4k5ioku7cxikyssq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-<div style="width: 100%;">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="">
   </a>
 </div>
 
