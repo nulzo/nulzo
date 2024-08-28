@@ -43,7 +43,7 @@
           }
 
           .display {
-            font-size: 6px;
+            font-size: 1.9vh;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -85,7 +85,7 @@
 
           .term-text-top {
             position: absolute;
-            top: 10px;
+            top: 15px;
             left: 15px;
             font-size: 10px;
             font-family: "Noto Sans Mono", monospace;
@@ -123,7 +123,7 @@
         <div class="container" style="position: relative;">
             <div class="term-text-top"><span class="primary-term">nulzo</span>@<span class="primary-term">nulzo</span> ~ $ neofetch</div>
             <div class="term-text-bottom"><span class="primary-term">nulzo</span>@<span class="primary-term" style="padding-right: 6px;">nulzo</span> ~ $ <div class="blinker"></div></div>
-            <div class="display img-gradient" style="background-color: transparent; height: 250px; overflow: hidden; width: 30%;">
+            <div class="display img-gradient" style="background-color: transparent; height: 255px; overflow: hidden; width: 30%;">
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⡶⠶⠶⠶⠶⠶⠶⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣆⠀⠀⠀⠀⠀⠈⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠈⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -149,8 +149,8 @@
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁⠀⠀
                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠼⠁⠀⠀⠀ 
             </div>
-            <div class="text-display" style="margin-top: 5px">
-                <ul style="list-style: none; padding-top: 5px;">
+            <div class="text-display" style="margin-top: 10px">
+                <ul style="list-style: none; padding-top: 10px;">
                     <li>
                         <span class="primary-term">nulzo</span>@<span class="primary-term">nulzo.io</span>
                     </li>
@@ -189,9 +189,6 @@
                     </li>
                     <li class="list-item">
                         <span class="primary-term">Deez</span>: nuts?
-                    </li>
-                    <li class="list-item">
-                        <span class="primary-term">Who</span>: asked?
                     </li>
                     <li class="list-item" style="display: flex">
                         <div style="height: 20px; width: 20px; background-color: #D1A8FF; margin-top: 10px;"></div>
