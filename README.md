@@ -12,12 +12,12 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠁⠀⠀⠈⢧⠀⠀⠀⠸⡄⠀⠀⠀⠀⠀⠀    Location: United States
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⢣⡀⠀⠀⠘⡄⠀⠀⠀⠀⠀    Pronouns: he/him
 ⠀⠀⠀⠀⠀⠀⢀⣴⠶⠶⠶⠶⠷⠶⠶⠶⢦⠀⠀⠀⠱⠀⠀⠀⠘⣆⠀⠀⠀⠀    Shell: bruhshell 0.0.1
-⠀⠀⠀⠀⠀⢀⠎⠈⢣⠀⠀⠀⠀⠀⠀⠀⠈⢃⠀⠀⠀⠳⡄⠀⠀⠘⣆⠀⠀⠀    Languages: JavaScript, TypeScript, Python, C++, Java
+⠀⠀⠀⠀⠀⢀⠎⠈⢣⠀⠀⠀⠀⠀⠀⠀⠈⢃⠀⠀⠀⠳⡄⠀⠀⠘⣆⠀⠀⠀    Languages: JavaScript, TypeScript, 
 ⠀⠀⠀⠀⢠⠎⠀⠀⠀⡷⠒⠒⠒⠒⠒⠒⠒⢚⡇⠀⠀⠀⡱⠶⠶⠶⢾⡆⠀⠀    Frontend: Vue, React, Next, Vuetify
 ⠀⠀⠀⢠⠏⠀⠀⢀⡜⠀⠀⠀⠀⠀⠀⠀⢀⡎⠀⠀⠀⡰⠃⠀⠀⢀⠞⠀⠀⠀    Backend: FastAPI
 ⠀⠀⢠⠏⠀⠀⢀⡞⠀⠀⠀⣠⡤⠤⠤⠤⣞⠀⠀⠀⡴⠁⠀⠀⢀⡎⠀⠀⠀⠀    DevOps: Docker, Vercel, Cloudflare
 ⠀⣠⠃⠀⠀⢀⠞⠀⠀⠀⣰⠁⠱⡀⠀⠀⠈⢇⠀⡼⠁⠀⠀⢠⠋⠘⣄⠀⠀⠀    Databases: MongoDB, MySQL/MariaDB
-⢠⡁⠀⠀⢀⠞⠀⠀⠀⢸⠁⠀⠀⠹⡄⠀⠀⠘⠾⠥⠤⠤⠴⠋⠀⠀⠘⣆⠀⠀    IDEs: Visual Studio, Visual Studio Code, IntelliJ IDEA
+⢠⡁⠀⠀⢀⠞⠀⠀⠀⢸⠁⠀⠀⠹⡄⠀⠀⠘⠾⠥⠤⠤⠴⠋⠀⠀⠘⣆⠀⠀    IDEs: Visual Studio, Visual Studio 
 ⠀⢳⡀⢀⠋⠀⠀⠀⠀⠀⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀    Runtime: Bun
 ⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⢷⡀⠀⠀⢙⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⡆    Email: mail@nulzo.io
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁    Discord: nulzo

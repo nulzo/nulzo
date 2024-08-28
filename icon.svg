@@ -37,6 +37,7 @@
 
         .muted {
           color: #9A9A9A;
+          font-size: 10px;
         }
 
         @media (prefers-reduced-motion) {

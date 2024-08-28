@@ -14,16 +14,17 @@
           }
   
           .container {
-            background-color: transparent;
+            background-color: #161B22;
   
             width: 100%;
             height: 300px;
   
             display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+            flex-direction: row;
+            justify-content: start;
+            align-items: start;
             color: #EBEBEB;
+            border-radius: 10px;
   
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
           }
@@ -34,9 +35,40 @@
             transform-origin: 40% 40%;
             color: #D1A8FF;
           }
+
+          .display {
+            font-size: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+        }
+
+        .text-display {
+            font-size: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+        }
   
           .muted {
             color: #9A9A9A;
+          }
+
+          .primary-term {
+            color: #D1A8FF;
+            font-weight: bold;
+          }
+
+          ul {
+            font-family: "Noto Sans Mono", monospace;
+          }
+
+          .img-gradient {
+            background: -webkit-linear-gradient(#EBEBEB, #D1A8FF);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
           }
   
           @media (prefers-reduced-motion) {
@@ -47,11 +79,38 @@
         </style>
   
         <div class="container">
-            <div align="center">
-                <a href="https://git.io/streak-stats">
-                  <img src="https://streak-stats.demolab.com?user=nulzo&amp;theme=transparent&amp;border_radius=10&amp;fire=EB3ADB&amp;ring=D1A8FF&amp;currStreakNum=EBEBEB&amp;sideNums=EBEBEB&amp;currStreakLabel=D1A8FF&amp;sideLabels=EBEBEB&amp;dates=9A9A9A&amp;width=500" alt="streak" />
-                </a>
-              </div>
+            <div class="display img-gradient" style="background-color: transparent; height: 250px; overflow: hidden; width: 35%;">
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢶⠒⠒⠒⠲⡀⠀⠀⠀⠀⠀⠀⠀⠀    
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠋⠈⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀    
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠁⠀⠀⠈⢧⠀⠀⠀⠸⡄⠀⠀⠀⠀⠀⠀    
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⢣⡀⠀⠀⠘⡄⠀⠀⠀⠀⠀    
+                ⠀⠀⠀⠀⠀⠀⢀⣴⠶⠶⠶⠶⠷⠶⠶⠶⢦⠀⠀⠀⠱⠀⠀⠀⠘⣆⠀⠀⠀⠀    
+                ⠀⠀⠀⠀⠀⢀⠎⠈⢣⠀⠀⠀⠀⠀⠀⠀⠈⢃⠀⠀⠀⠳⡄⠀⠀⠘⣆⠀⠀⠀    
+                ⠀⠀⠀⠀⢠⠎⠀⠀⠀⡷⠒⠒⠒⠒⠒⠒⠒⢚⡇⠀⠀⠀⡱⠶⠶⠶⢾⡆⠀⠀    
+                ⠀⠀⠀⢠⠏⠀⠀⢀⡜⠀⠀⠀⠀⠀⠀⠀⢀⡎⠀⠀⠀⡰⠃⠀⠀⢀⠞⠀⠀⠀    
+                ⠀⠀⢠⠏⠀⠀⢀⡞⠀⠀⠀⣠⡤⠤⠤⠤⣞⠀⠀⠀⡴⠁⠀⠀⢀⡎⠀⠀⠀⠀    
+                ⠀⣠⠃⠀⠀⢀⠞⠀⠀⠀⣰⠁⠱⡀⠀⠀⠈⢇⠀⡼⠁⠀⠀⢠⠋⠘⣄⠀⠀⠀    
+                ⢠⡁⠀⠀⢀⠞⠀⠀⠀⢸⠁⠀⠀⠹⡄⠀⠀⠘⠾⠥⠤⠤⠴⠋⠀⠀⠘⣆⠀⠀    
+                ⠀⢳⡀⢀⠋⠀⠀⠀⠀⠀⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀    
+                ⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⢷⡀⠀⠀⢙⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⡆    
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁    
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠜⠁⠀    
+            </div>
+            <div class="text-display">
+                <ul style="list-style: none;">
+                    <li>
+                        <span class="primary-term">nulzo</span>@<span class="primary-term">nulzo.io</span>
+                    </li>
+                    <li>
+                        -----------------
+                    </li>
+                    <li>
+                        <span class="primary-term">Location</span>
+                        : United States
+                    </li>
+                </ul>
+            
+            </div>
         </div>
       </div>
     </foreignObject>
