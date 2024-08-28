@@ -1,9 +1,3 @@
-<div style="width: 100%;">
-  <a href="https://github.com/nulzo/nulzo/blame/main/icon.svg">
-    <img src="icon.svg" style="width: 100%;" alt="">
-  </a>
-</div>
-
 ###
 
 ```lua
@@ -24,9 +18,17 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠜⠁⠀    Website: nulzo.io⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
+<div style="width: 100%;">
+  <a href="https://github.com/nulzo/nulzo/blame/main/icon.svg">
+    <img src="icon.svg" style="width: 100%;" alt="">
+  </a>
+</div>
+
 ##
 
 ###
+
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=nulzo&theme=transparent&border_radius=10&fire=EB3ADB&ring=D1A8FF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=D1A8FF&sideLabels=EBEBEB&dates=9A9A9A&width=500" alt="streak" />
