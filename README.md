@@ -40,29 +40,13 @@
 
 ##
 
-<p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Total+Page+Visitors" alt="Typing SVG" /></a>
-</p>
-
-
 
 <p align="center">
-<a href="https://hits.sh/github.com/nulzo/hits/"><img alt="Hits" src="https://hits.sh/github.com/nulzo/hits.svg?style=for-the-badge&label=Profile%20Views&color=FF6B6B&labelColor=292F36" /></a>
+  <a href="https://hits.sh/github.com/nulzo/hits/"><img alt="Hits" src="https://hits.sh/github.com/nulzo/hits.svg?style=for-the-badge&label=Profile%20Views&color=D1A8FF&labelColor=161B22" /></a>
 </p>
 
-
-##
-<p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Sign+My+Guestbook!" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-<a href="https://gist.github.com/nulzo/5b0c7f9fd8f94efb18d3f12676b12b5d"><img src="https://imgur.com/vZLPTMH.png alt="bruh"/></a>
-</p>
-
-<!--
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
--->
+<div align="center" style="width: 100%; display: flex; justify-items: center;">
+  <a href="https://gist.github.com/nulzo/5b0c7f9fd8f94efb18d3f12676b12b5d">
+    <img src="guestbook.svg" style="width: 30%;" alt="">
+  </a>
+</div>
