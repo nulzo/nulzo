@@ -1,30 +1,17 @@
 ###
 
-```lua
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢶⠒⠒⠒⠲⡀⠀⠀⠀⠀⠀⠀⠀⠀    nulzo@nulzo.io
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠋⠈⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀    -----------
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠁⠀⠀⠈⢧⠀⠀⠀⠸⡄⠀⠀⠀⠀⠀⠀    Location: United States
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⢣⡀⠀⠀⠘⡄⠀⠀⠀⠀⠀    Pronouns: he/him
-⠀⠀⠀⠀⠀⠀⢀⣴⠶⠶⠶⠶⠷⠶⠶⠶⢦⠀⠀⠀⠱⠀⠀⠀⠘⣆⠀⠀⠀⠀    Shell: bruhshell 0.0.1
-⠀⠀⠀⠀⠀⢀⠎⠈⢣⠀⠀⠀⠀⠀⠀⠀⠈⢃⠀⠀⠀⠳⡄⠀⠀⠘⣆⠀⠀⠀    Languages: JavaScript, TypeScript, 
-⠀⠀⠀⠀⢠⠎⠀⠀⠀⡷⠒⠒⠒⠒⠒⠒⠒⢚⡇⠀⠀⠀⡱⠶⠶⠶⢾⡆⠀⠀    Frontend: Vue, React, Next, Vuetify
-⠀⠀⠀⢠⠏⠀⠀⢀⡜⠀⠀⠀⠀⠀⠀⠀⢀⡎⠀⠀⠀⡰⠃⠀⠀⢀⠞⠀⠀⠀    Backend: FastAPI
-⠀⠀⢠⠏⠀⠀⢀⡞⠀⠀⠀⣠⡤⠤⠤⠤⣞⠀⠀⠀⡴⠁⠀⠀⢀⡎⠀⠀⠀⠀    DevOps: Docker, Vercel, Cloudflare
-⠀⣠⠃⠀⠀⢀⠞⠀⠀⠀⣰⠁⠱⡀⠀⠀⠈⢇⠀⡼⠁⠀⠀⢠⠋⠘⣄⠀⠀⠀    Databases: MongoDB, MySQL/MariaDB
-⢠⡁⠀⠀⢀⠞⠀⠀⠀⢸⠁⠀⠀⠹⡄⠀⠀⠘⠾⠥⠤⠤⠴⠋⠀⠀⠘⣆⠀⠀    IDEs: Visual Studio, Visual Studio 
-⠀⢳⡀⢀⠋⠀⠀⠀⠀⠀⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀    Runtime: Bun
-⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⢷⡀⠀⠀⢙⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⡆    Email: mail@nulzo.io
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁    Discord: nulzo
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠜⠁⠀    Website: nulzo.io⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
-
 <div style="width: 100%;">
   <a href="https://github.com/nulzo/nulzo/blame/main/icon.svg">
+    <img src="content.svg" style="width: 100%;" alt="">
+  </a>
+</div>
+
+<div style="width: 100%;">
+  <a href="https://github.com/nulzo/nulzo/blame/main/content.svg">
     <img src="icon.svg" style="width: 100%;" alt="">
   </a>
 </div>
 
-##
 
 ###
 
