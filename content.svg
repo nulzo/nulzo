@@ -42,6 +42,7 @@
             justify-content: center;
             align-items: center;
             padding: 15px;
+            margin-left: 30px;
         }
 
         .text-display {
@@ -70,6 +71,10 @@
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
           }
+
+          .list-item {
+            margin-top: 2px;
+          }
   
           @media (prefers-reduced-motion) {
             .hi {
@@ -79,24 +84,24 @@
         </style>
   
         <div class="container">
-            <div class="display img-gradient" style="background-color: transparent; height: 250px; overflow: hidden; width: 35%;">
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢶⠒⠒⠒⠲⡀⠀⠀⠀⠀⠀⠀⠀⠀    
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠋⠈⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀    
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠁⠀⠀⠈⢧⠀⠀⠀⠸⡄⠀⠀⠀⠀⠀⠀    
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠁⠀⠀⠀⠀⠀⢣⡀⠀⠀⠘⡄⠀⠀⠀⠀⠀    
-                ⠀⠀⠀⠀⠀⠀⢀⣴⠶⠶⠶⠶⠷⠶⠶⠶⢦⠀⠀⠀⠱⠀⠀⠀⠘⣆⠀⠀⠀⠀    
-                ⠀⠀⠀⠀⠀⢀⠎⠈⢣⠀⠀⠀⠀⠀⠀⠀⠈⢃⠀⠀⠀⠳⡄⠀⠀⠘⣆⠀⠀⠀    
-                ⠀⠀⠀⠀⢠⠎⠀⠀⠀⡷⠒⠒⠒⠒⠒⠒⠒⢚⡇⠀⠀⠀⡱⠶⠶⠶⢾⡆⠀⠀    
-                ⠀⠀⠀⢠⠏⠀⠀⢀⡜⠀⠀⠀⠀⠀⠀⠀⢀⡎⠀⠀⠀⡰⠃⠀⠀⢀⠞⠀⠀⠀    
-                ⠀⠀⢠⠏⠀⠀⢀⡞⠀⠀⠀⣠⡤⠤⠤⠤⣞⠀⠀⠀⡴⠁⠀⠀⢀⡎⠀⠀⠀⠀    
-                ⠀⣠⠃⠀⠀⢀⠞⠀⠀⠀⣰⠁⠱⡀⠀⠀⠈⢇⠀⡼⠁⠀⠀⢠⠋⠘⣄⠀⠀⠀    
-                ⢠⡁⠀⠀⢀⠞⠀⠀⠀⢸⠁⠀⠀⠹⡄⠀⠀⠘⠾⠥⠤⠤⠴⠋⠀⠀⠘⣆⠀⠀    
-                ⠀⢳⡀⢀⠋⠀⠀⠀⠀⠀⢣⠀⠀⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀    
-                ⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⢷⡀⠀⠀⢙⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⡆    
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⡀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠁    
-                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⠯⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠜⠁⠀    
+            <div class="display img-gradient" style="background-color: transparent; height: 250px; overflow: hidden; width: 30%;">
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⡖⠒⠒⠒⢢⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡜⡥⡝⡆⠀⠀⠀⢣⡀⠀⠀⠀⠀⠀⠀⠀
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣌⢞⣿⢽⡜⣆⠀⠀⠀⠳⡀⠀⠀⠀⠀⠀⠀
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢏⢯⣼⣛⣿⣬⢎⢆⠀⠀⠀⠳⡄⠀⠀⠀⠀⠀
+                ⠀⠀⠀⠀⠀⠀⠀⣴⡶⠶⠶⠶⠿⠿⠾⠿⠿⡟⣮⡎⢯⢧⠀⠀⠀⠘⡀⠀⠀⠀⠀
+                ⠀⠀⠀⠀⠀⢀⣼⡳⡵⡀⠀⠀⠀⠀⠀⠀⠀⠙⡜⣯⡟⢿⢧⠀⠀⠀⠙⣆⠀⠀⠀
+                ⠀⠀⠀⠀⠀⢾⣧⢿⢾⣷⠒⠒⠒⠒⠒⠒⠒⠒⢺⢢⠧⡿⡏⡷⠶⠶⠶⢾⠆⠀⠀
+                ⠀⠀⠀⢠⢮⡿⣵⡵⡳⠁⠀⠀⠀⠀⠀⠀⠀⣠⣳⢃⣞⡟⡜⠁⠀⠀⢠⠎⠀⠀⠀
+                ⠀⠀⢠⣿⡿⣽⡾⡵⠁⠀⠀⢀⣤⠤⠤⠤⢴⣻⢷⢫⣞⠜⠀⠀⠀⣠⡃⠀⠀⠀⠀
+                ⠀⢠⣿⣿⡿⣟⡔⠀⠀⠀⢠⣿⢾⣆⠀⠀⠀⠹⡍⣧⡏⠀⠀⠀⣰⠃⠱⡄⠀⠀⠀
+                ⢠⣳⣿⡿⣟⡞⠀⠀⠀⠠⣿⣯⣯⣿⣦⠀⠀⠀⠱⠯⠤⠤⠤⠴⠁⠀⠀⠘⣄⠀⠀
+                ⠀⠳⣽⣞⡞⠀⠀⠀⠀⠀⠹⡜⡟⡷⣹⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀
+                ⠀⠀⠙⠮⠤⠤⠤⠤⠤⠤⠤⠼⣿⣾⣵⣻⢣⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣬⡆
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⢾⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠀
+                ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠿⠥⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠞⠁⠀   
             </div>
-            <div class="text-display">
+            <div class="text-display" style="margin-top: 5px">
                 <ul style="list-style: none;">
                     <li>
                         <span class="primary-term">nulzo</span>@<span class="primary-term">nulzo.io</span>
@@ -104,9 +109,51 @@
                     <li>
                         -----------------
                     </li>
-                    <li>
-                        <span class="primary-term">Location</span>
-                        : United States
+                    <li class="list-item" style="padding-top: 2px;">
+                        <span class="primary-term">Location</span>: NY, United States
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Shell</span>: BruhShell
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">OS</span>: Solus x86_64
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Languages</span>: Typescript, Python, C++
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Role</span>: Fullstack Engineer
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Technologies</span>: Docker, k8s, Terraform
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Uptime</span>: Years
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Email</span>: mail@nulzo.io
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Discord</span>: nulzo<span class="muted" style="font-size: 7px; padding-left: 2px;">#0001</span>
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Website</span>: nulzo.io
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Deez</span>: nuts?
+                    </li>
+                    <li class="list-item">
+                        <span class="primary-term">Who</span>: asked?
+                    </li>
+                    <li class="list-item" style="display: flex">
+                        <div style="height: 20px; width: 20px; background-color: #D1A8FF; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #d8b4ff; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #dfc1ff; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #e6cdff; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #ecd9ff; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #f3e6ff; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #f9f2ff; margin-top: 10px;"></div>
+                        <div style="height: 20px; width: 20px; background-color: #FFFFFF; margin-top: 10px;"></div>
                     </li>
                 </ul>
             
