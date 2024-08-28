@@ -23,11 +23,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nulzo&hide_title=false&title_color=EBEBEB&text_color=9A9A9A&icon_color=D1A8FF&border_radius=10&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title='Erm...%20what%20the%20sigma'&card_width=600&rank_icon=percentile&ring_color=D1A8FF&include_all_commits=true" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nulzo&hide_title=false&title_color=EBEBEB&text_color=9A9A9A&icon_color=D1A8FF&border_radius=10&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=&quot;Erm%20actually%20you%20cant%20quantify%20code&quot;%20☝️🤓&card_width=600&rank_icon=percentile&ring_color=D1A8FF&include_all_commits=true" alt="stats graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nulzo&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=transparent&hide_border=false&order=2&title_color=EBEBEB&text_color=9A9A9A&icon_color=D1A8FF&border_radius=10&include_all_commits=true&size_weight=0.25&custom_title=you're%20joking" alt="languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nulzo&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=transparent&hide_border=false&order=2&title_color=EBEBEB&text_color=9A9A9A&icon_color=D1A8FF&border_radius=10&include_all_commits=true&size_weight=0.25&custom_title=you're%20joking...%20typescript&#63;%20*dies*" alt="languages"  />
 </div>
 
 ###
